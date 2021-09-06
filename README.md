@@ -7,7 +7,7 @@
 
 ## Features
 
-* Search for you favorite destination <br>
+* Search for your favorite destination <br>
 * Watch trailers <br>
 * Home/Services/Product Section <br>
 * Login/Sign Up <br>
